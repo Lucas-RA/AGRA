@@ -1,0 +1,71 @@
+PALESTRA - SIPREMO 
+https://www.sipremo.com
+
+Gabriel Savio - CEO
+gabriel.savio@sipremo.com
+
+Decisões inteligentes pela perspectiva do clima
+
+Para mitigar ou ter vantagem
+
+Problemas- Prejuízo, Informações em tempo real e Riscos cada vez maiores
+
+
+Defesa civil de SP - Parceria para solucionar o problema
+Ações de prevenção
+
+
+Integração de dados
+-Sipremo é a tecnologia que pode prever esses eventos, sendo uma rede neural, que aprende sozinha, fica mais acertivo pois vai aprendendo conforme o tempo
+Pega informações de diversas fontes
+
+Pressão atmosférica, tipo de solo, curvas de vível, correntes de ar, histórico de movimentação de solo, histórico, área
+
+
+-Absorver informações relacionadas
+-Fazer relação para gerar os resultados
+
+
+-Sipremo monitora 24h, recebe alerta antes, stakeholders agem proativamente para evitar/mitigar impactos, usuários podem alertar 
+
+
+-PREVISÃO - IMPACTO - INSIGHT
+
+preve infestações de 14 tipos de praga, pois tem relação com o clima.
+
+Entrega de análises via API, dashboard (na nuvem), canais de comunicação, boletins e relatórios (enviados por e-mail)
+
++Proatividade 
++Agilidade
++Impacto positivo
+-Tempo
+
+Atuam no Brasil e nos EUA
+
+Relação com a AGRA
+-Previsão de pragas
+-Clima
+
+Dicas:
+Setor privado
+Buscar pessoas/empresas que tenham os dados necessários para montar o que for preciso
+Apresentar o que você pode fazer para um investidor que tenha interesse e acesso a informações relevantes ao projeto para sua conclusão
+Seguir os princípios 
+Focar em software
+Fazer o mais fácil e mais barato para lançar, deu certo e continuar para o próximo passo e ir aprimorando conforme o amadurecimento
+Ter planejamento
+Entender as limitações da tecnologia
+Ter alguém que saiba do assunto e um mínimo conhecimento 
+Entender a operação
+Fazer relação de acertividade com os resultados entregados
+Público alvo - pensar/escalar em função do que é mais fácil de ter acesso, tem contato, etc
+Se focar em tudo, não está focando em nada
+
+PERGUNTAS:
+
+1-Relacionar dados
+Entender o impacto em diversas operações, conseguimos ver a relação do clima com as pragas, buscar dados para avaiar, assim tendo os dados da operação e dessa maneira validar a hipotese e fazer a correlação, fizemos por meio de uma parceria que tivemos acesso a mais dados, desenvolvi o algoritmo tendo os dados e relacionando eles para fazer a relação do de - para. Você pode fazer o projeto e apresentar para algum investidor que tenha acesso aos dados, assim ela pode querer uma participação de propriedade intelectual, e tentar entrar em contato com quem possa ter esses dados para realizar a busca e montar o que for preciso.
+
+2-Algoritmo
+Sou o cara que da ideia e sei como funciona. Fazia essas relações em minha empresa antesrior, então com o estudo das váriaveis, montei um excel e fui aplicando pesos, assim encontrando as váriaveis principais e começamos a desenvolver, e tem isso de ir aos poucos, para ir desenvolvendo e aprimorando/melhorando e escalando, assim buscando conseguindo mais validações, buscar padrões e ir refinando com o tempo.
+Fazer o mínimo de esforço para o máximo de resultado, pois se errar, você errou o mais fácil e o mais barato.
