@@ -1,0 +1,47 @@
+<ion-header>
+
+  <ion-toolbar>
+
+    <ion-title>Perfil</ion-title>
+
+  </ion-toolbar>
+
+</ion-header>
+
+ 
+
+<ion-content>
+
+  <div class="profile-container">
+
+    <div class="profile-information">
+
+      <img class="profile-picture" src="../assets/3106921.png" alt="Foto de perfil">
+
+      <h2 class="profile-name">Usuário</h2>
+
+      <p class="profile-description">* Descrição *</p>
+
+    </div>
+
+    <div class="profile-contact">
+
+      <h3>Informações de Login</h3>
+
+      <p>e-mail:</p>
+
+      <p>senha:</p>
+
+    </div>
+
+ 
+
+    <ion-button expand="full" (click)="goToLogin()">Fazer Login / Registrar</ion-button>
+    <div id="container">
+      
+      <ion-button expand="full" (click)="logout()">Sair</ion-button>
+    </div>
+
+  </div>
+
+</ion-content>
